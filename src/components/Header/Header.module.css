@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.test {
+  color: var(--c-red);
+}
+
+.buttons {
+  display: flex;
+  gap: 30px;
+}

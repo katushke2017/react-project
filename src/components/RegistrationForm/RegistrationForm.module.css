@@ -1,0 +1,7 @@
+.form {
+  border: 2px solid var(--c-red);
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px;
+  width: 100%;
+}
